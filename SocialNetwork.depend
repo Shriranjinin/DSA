@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1763545180 source:c:\users\shriranjini\onedrive\documents\c stuffs\socialnetwork\main.c
+	<stdio.h>
+	<string.h>
+	"social.h"
+
+1763715860 c:\users\shriranjini\onedrive\documents\c stuffs\socialnetwork\social.h
+
+1763717230 source:c:\users\shriranjini\onedrive\documents\c stuffs\socialnetwork\social.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"social.h"
+
